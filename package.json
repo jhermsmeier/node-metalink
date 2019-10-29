@@ -1,0 +1,26 @@
+{
+  "name": "metalink",
+  "version": "0.0.0",
+  "description": "Metalink",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "keywords": [
+    "metalink"
+  ],
+  "main": "lib/metalink.js",
+  "dependencies": {
+    "htmlparser2": "^4.0.0",
+    "http-link-header": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-metalink#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-metalink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-metalink/issues"
+  }
+}
